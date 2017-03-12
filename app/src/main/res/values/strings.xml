@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MiMascota</string>
+    <string name="like_inicio">0</string>
+    <string name="titulo_actionbar">Mis Mascotas</string>
+    <string name="mascotas_favoritas">Mis Mascotas</string>
+    <string name="menu_about">Acerca</string>
+    <string name="menu_contact">Contacto</string>
+    <string name="et_nombre">Nombre Completo</string>
+    <string name="et_correo">Correo</string>
+    <string name="et_mensaje">Mensaje</string>
+    <string name="bt_enviar">Enviar</string>
+    <string name="msj_enviado">Mensaje enviado</string>
+    <string name="msj_espera">Por favor espere...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
